@@ -1,11 +1,13 @@
-# @atom1clhu
+# 👋 | Information
+Hello im **atomic** im interested to code in python, currently im projecti g on a Growtopia Private Server called GTV5
 
-
-<b>Hello! Im @atomiclhu, Im interested to coding in Python🐍</b>
-- 👋 Hi, I’m @atom1clhu
-- 👀 I’m interested in <b>Python</b>
-- 🌱 I’m currently learning <b>Javascript</b> 
-Discord : <b>atomic#7175</b>
+# 💻 | Programming Language
+- 🐍 Python 
+- 🌱 Javascript 
+- 💽 C# 
+- 🤖 C++
+# 🌸 | Social Media 
+- Discord : atomic#7157
 
 <!---
 atom1clhu/atom1clhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
