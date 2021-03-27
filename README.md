@@ -7,8 +7,8 @@ Hello im **atomic** im interested to code in python, currently im projecting on 
 - 💽 C# 
 - 🤖 C++
 # 🌸 | Social Media 
-- Discord : atomic#7157
-You can DM me on Discord if you need any help, or to talk with me!
+- Discord : atomic#7157 
+You can DM me on Discord if you need any help, or if you want to make a conversation with me!
 
 <!---
 atom1clhu/atom1clhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
