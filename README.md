@@ -1,5 +1,5 @@
 # 👋 | Information
-Hello im **atomic** im interested to code in python, currently im projecting on a Growtopia Private Server called GTV5
+Hello im **atomic** im interested to code in python, currently im projecting on a Growtopia Private Server called **EverlandPS**
 
 # 💻 | Programming Language
 - 🐍 Python 
